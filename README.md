@@ -1,5 +1,5 @@
 # Student-Management-System
-This project is it's name. It has built using windows form in C# and MySql database.
+This project is as it's name. It has built using windows form in C# and MySql database.
 To use the codes you must have download 'Visual Studio IDE' & 'XAMPP' and 'mysql-connector-odbc-8.0.33' before.
 
 Notice!
